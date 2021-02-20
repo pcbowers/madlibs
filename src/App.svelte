@@ -14,13 +14,13 @@
 		["5. Adjective", ""],
 		["6. John / Danica", ""],
 		["7. Verb", ""],
-		["8. Feeling (Adjective)", ""],
+		["8. Feeling (Adjective, he is feeling ___)", ""],
 		["9. Verb", ""],
 		["10. Verb", ""],
 		["11. Advice (Start with Verb/Adverb)", ""],
 		["12. Number", ""],
 		["13. Adjective", ""],
-		["14. Feeling (Noun)", ""],
+		["14. Feeling (Noun, ___ is a feeling)", ""],
 		["15. Name of Party Guest", ""],
 	];
 
