@@ -102,7 +102,7 @@
 				<strong>{options[8][1].toLowerCase()}</strong>
 				when you
 				<strong>{options[9][1].toLowerCase()}</strong>. But most of all, you
-				should both always
+				should both
 				<strong>{options[10][1].toLowerCase()}</strong>.
 			</p>
 			<p>
